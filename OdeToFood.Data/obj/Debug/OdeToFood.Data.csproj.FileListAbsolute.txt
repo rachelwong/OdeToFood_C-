@@ -1,0 +1,11 @@
+D:\Sandbox\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+D:\Sandbox\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+D:\Sandbox\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+D:\Sandbox\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+D:\Sandbox\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+D:\Sandbox\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll.config
+D:\Sandbox\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.dll
+D:\Sandbox\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sandbox\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.xml
+D:\Sandbox\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sandbox\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CopyComplete
